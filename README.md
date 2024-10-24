@@ -8,9 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="Ayush Khadka" /> </p>
 
-
-
-https://github.com/2ayush2
 - 👨‍💻 All of my projects are available at [https://linktr.ee/ayushkhadka7](https://linktr.ee/ayushkhadka7) [https://www.behance.net/ayushkhadka1](https://www.behance.net/ayushkhadka1)
 
 - ⚡ Fun fact **I can spend hours perfecting pixel details, but I’m just as obsessed with finding the perfect coffee!**
