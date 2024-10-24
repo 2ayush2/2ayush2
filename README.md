@@ -1,4 +1,4 @@
-![logo](https://github.com/2ayush2/Ayush-Banner/blob/master/Ayush%20Khadka.png)
+<img src="https://github.com/2ayush2/Ayush-Banner/blob/master/Ayush%20Khadka.png" alt="logo" align="center" />
 <h1 align="center">Hi 👋, I'm Ayush Khadka</h1>
 <h3 align="center">A passionate UI/UX Designer and Web Designer</h3>
 
