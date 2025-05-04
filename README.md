@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/2ayush2/Ayush-Banner/master/Ayush%20Khadka%20(1).png" alt="Ayush Khadka Banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/2ayush2/Ayush-Banner/master/Ayush%20Khadka%20(1).png" alt="Ayush Khadka Banner" width="500px"/>
 
 </p>
 <h1 align="center">Hi 👋, I'm Ayush Khadka</h1>
