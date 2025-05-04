@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/2ayush2/Ayush-Banner/blob/master/Ayush%20Khadka(1).png" alt="logoAyush Khadka (1).png"  />
+<img src="https://raw.githubusercontent.com/2ayush2/Ayush-Banner/master/Ayush%20Khadka%20(1).png" alt="Ayush Khadka Banner" width="100%"/>
+
 </p>
 <h1 align="center">Hi 👋, I'm Ayush Khadka</h1>
 <h3 align="center">A passionate Machine Learning Engineer | AI Specialist
